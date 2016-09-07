@@ -10,6 +10,8 @@ namespace GameHarness
     {
         static void Main(string[] args)
         {
+            // Solitaire game
+            // var game = new SolitaireGame();
         }
     }
 }
